@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/tema4.dir/src/main.cpp.o CMakeFiles/tema4.dir/src/FileManager.cpp.o -o tema4 

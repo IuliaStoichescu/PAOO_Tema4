@@ -1,0 +1,3 @@
+Aceasta este o linie în fișier.
+Aceasta este o altă linie în fișier.
+Scriere din noul manager.
